@@ -4,14 +4,15 @@
   In May 2022 I decided to master the profession of web developer and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>.
 </h4>
 
-- 🔭 I’m currently working on **Learning Development**
+- 🔭 I’m currently working on **Learning Web Development**
 - 🌱 I’m currently learning **HTML | CSS | SCSS |** ...JAVASCRIPT | REACT |
   NODE.JS
 - 📫 How to reach me: **mykoladanyliuk.ua@gmail.com**
 - ⚡ Fun fact: Content Creator on
   <a href="https://bit.ly/31SqqKV">**YouTube**</a>, Director of the
   International Folk Instruments
-  Competition<a href="http://artdominanta.com/">«Art-Dominanta»</a>
+  Competition<a href="http://artdominanta.com/">**«Art-Dominanta»**</a>
+
   <!-- - 👯 I’m looking to collaborate on ...
   <!-- - 🤔 I’m looking for help with ...
   <!-- - 💬 Ask me about ... -->
@@ -19,6 +20,7 @@
 
 ## My stack and tools
 
+<p>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,7 +32,9 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<!-- 
+</p>
+
+<!--
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 <!-- <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
