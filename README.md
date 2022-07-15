@@ -18,7 +18,7 @@
   <!-- - 💬 Ask me about ... -->
   <!-- - 😄 Pronouns: ... -->
 
-## My stack and tools
+## languages and tools
 
 <p>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,11 +45,13 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 
-<br />
-<br />
-
 ## My projects
 
 [https://github.com/MykolaDanyliuk/goit-markup-hw-08]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaDanyliuk)
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaDanyliuk&layout=compact)
 
 <!-- **MykolaDanyliuk/MykolaDanyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
