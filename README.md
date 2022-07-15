@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Learning development
 - 🌱 I’m currently learning HTML | CSS | SCSS | JAVASCRIPT | REACT | NODE.JS
   <!-- - 👯 I’m looking to collaborate on ...
-  <!-- - 🤔 I’m looking for help with ... --> -->
+  <!-- - 🤔 I’m looking for help with ...
   <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: mykoladanyliuk.ua@gmail.com
 <!-- - 😄 Pronouns: ... -->
