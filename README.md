@@ -4,15 +4,13 @@
   In May 2022 I decided to master the profession of web developer and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>. I am also a Content Creator on <a href="https://bit.ly/31SqqKV">YouTube</a>.
 </h4>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Learning development
 - 🌱 I’m currently learning HTML | CSS | SCSS | JAVASCRIPT | REACT | NODE.JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  <!-- - 👯 I’m looking to collaborate on ...
+  <!-- - 🤔 I’m looking for help with ... --> -->
+  <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: mykoladanyliuk.ua@gmail.com
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Director of the International Folk Instruments Competition
   <a href="http://artdominanta.com/">«Art-Dominanta»</a>
 
