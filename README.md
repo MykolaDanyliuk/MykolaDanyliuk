@@ -15,15 +15,11 @@
 
 ### Connect with me:
 
+<br />
 [<img align="left" alt="MykolaDanyliuk  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MykolaDanyliuk  | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="MykolaDanuliuk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="artdominanta.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-  <!-- - 👯 I’m looking to collaborate on ...
-  <!-- - 🤔 I’m looking for help with ...
-  <!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ... -->
 
 ## languages and tools
 
@@ -65,10 +61,16 @@
 
 [website]: http://artdominanta.com/
 [youtube]: https://bit.ly/31SqqKV"
-[linkedin]: linkedin.com/in/danyliuk-mykola
+[linkedin]: https://www.linkedin.com/in/danyliuk-mykola/
 [facebook]: https://www.facebook.com/nikolay.danilyuk.5
 
 <!-- **MykolaDanyliuk/MykolaDanyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+  <!-- - 👯 I’m looking to collaborate on ...
+  <!-- - 🤔 I’m looking for help with ...
+  <!-- - 💬 Ask me about ... -->
+  <!-- - 😄 Pronouns: ... -->
+
 <!-- <a href="https://www.facebook.com/nikolay.danilyuk.5" target="_blank"><img src="https://raw.githubusercontent.com/MykolaDanyliuk/MykolaDanyliuk/master/fb.png" alt="Facebook" width="30"></a>
 <a href="linkedin.com/in/danyliuk-mykola" target="_blank"><img src="https://raw.githubusercontent.com/MykolaDanyliuk/MykolaDanyliuk/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/MykolaDanyliuk" target="_blank"><img src="https://raw.githubusercontent.com/MykolaDanyliuk/MykolaDanyliuk/master/git.png" alt="GitHub" width="30"></a> -->
