@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi! My name is Mykola!</h2>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi there! My name is Mykola!</h2>
 <h3>I am an <a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> experienced music teacher</a> and a beginner web-developer from the 💙Ukrainian city of Kharkiv💛</h3>
 <h4>
   In May 2022 I decided to master the profession of web developer and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>.
@@ -53,7 +53,7 @@
 
 [https://github.com/MykolaDanyliuk/goit-markup-hw-08]
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaDanyliuk)
 <br />
