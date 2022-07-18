@@ -49,9 +49,9 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 
-## My projects
+<!-- ## My projects
 
-[https://github.com/MykolaDanyliuk/goit-markup-hw-08]
+[https://github.com/MykolaDanyliuk/goit-markup-hw-08] -->
 
 ## GitHub Stats
 
@@ -64,6 +64,8 @@
 [youtube]: https://bit.ly/31SqqKV"
 [linkedin]: https://www.linkedin.com/in/danyliuk-mykola/
 [facebook]: https://www.facebook.com/nikolay.danilyuk.5
+
+<!-- ![Profile views](https://gpvc.arturio.dev/arturssmirnovs?v=3) -->
 
 <!-- **MykolaDanyliuk/MykolaDanyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
