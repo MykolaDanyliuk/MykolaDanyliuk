@@ -1,8 +1,19 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, Welcome to my page!</h2>
-<p>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and a beginner Web developer from the<img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="45" height="45" alt="Activism free icon" title="Activism free icon">Ukrainian city of Kharkiv.</p>
+<!-- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hi, Welcome to  <a href="https://github.com/MykolaDanyliuk"> my page!</a></h2> -->
+
+### ![](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif)
+
+<!-- ![](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) -->
+
+<!-- ![](https://media.giphy.com/media/YqWZTBT80xGblMEdG0/giphy.gif) -->
+
+<p>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and a beginner Web developer from the Ukrainian city of Kharkiv</p> <img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="45" height="45" alt="Activism free icon" title="Activism free icon">
 <p>
-  In May 2022 I decided to master the profession of <b>Web Developer</b> and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>.
+  In May 2022 I decided to master the profession of <b>Web Developer</b> and now is a student <a href= https://goit.ua/?lang=uk><b>GO IT</b></a>.
 <p>
+
+<!-- ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif) -->
+<!-- ![](https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif) -->
+<!-- ![](https://media.giphy.com/media/7rKKkqJpZp7Mtpcdhm/giphy.gif) -->
 
 - 🔭 I’m currently working on **Learning Web Development**
 - 🌱 I’m currently learning **HTML | CSS | SCSS |** ...JAVASCRIPT | REACT |
