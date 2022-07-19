@@ -1,7 +1,7 @@
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, Welcome to my page!</h2>
-<p>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> experienced music teacher</a> and a beginner web developer from the<img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="45" height="45" alt="Activism free icon" title="Activism free icon">Ukrainian city of Kharkiv.</p>
+<p>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and <b>a beginner Web developer</b> from the<img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="45" height="45" alt="Activism free icon" title="Activism free icon">Ukrainian city of Kharkiv.</p>
 <p>
-  In May 2022 I decided to master the profession of web developer and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>.
+  In May 2022 I decided to master the profession of Web developer and now is a student <a href= https://goit.ua/?lang=uk>GO IT</a>.
 <p>
 
 - 🔭 I’m currently working on **Learning Web Development**
