@@ -90,7 +90,7 @@
 
 ---
 
-![](https://media.giphy.com/media/M4NfAd0zHGqJYBKFsz/giphy.gif)
+<!-- ![](https://media.giphy.com/media/M4NfAd0zHGqJYBKFsz/giphy.gif) -->
 
 ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
 
