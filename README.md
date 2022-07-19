@@ -8,10 +8,12 @@
 
 <!-- ![](https://media.giphy.com/media/YqWZTBT80xGblMEdG0/giphy.gif) -->
 
-<h3>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and a beginner Web Developer from the Ukrainian city of Kharkiv <img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="35" height="35" alt="Activism free icon" title="Activism free icon"> </h3> 
+<h3>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and a beginner Web Developer from the  Ukrainian city of 💙Kharkiv💛</h3> 
 <p>
   In May 2022 I decided to master the profession of Web Developer and now is a student <a href= https://goit.ua/?lang=uk><b>GO IT</b></a>.
 <p>
+
+<!-- <img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="35" height="35" alt="Activism free icon" title="Activism free icon">  -->
 
 <!-- ![](https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif) -->
 <!-- ![](https://media.giphy.com/media/7rKKkqJpZp7Mtpcdhm/giphy.gif) -->
@@ -88,13 +90,11 @@
 
 ---
 
-<!-- ![](https://media.giphy.com/media/M4NfAd0zHGqJYBKFsz/giphy.gif) -->
+![](https://media.giphy.com/media/M4NfAd0zHGqJYBKFsz/giphy.gif)
 
 ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
 
-<!-- ![](https://media.giphy.com/media/FAomNKj3aLs0bX64BO/giphy.gif)
-
-![](https://media.giphy.com/media/txO10a4HHXDi7cvMVi/giphy.gif) -->
+<!-- <!-- ![](https://media.giphy.com/media/FAomNKj3aLs0bX64BO/giphy.gif) -->
 
 <!-- **MykolaDanyliuk/MykolaDanyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
