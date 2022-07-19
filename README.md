@@ -1,28 +1,16 @@
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">Hi, Welcome to  <a href="https://github.com/MykolaDanyliuk"> my page!</a></h2>
 
-<!-- ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif) -->
-
-<!-- ## ![](https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif) -->
-
-<!-- ![](https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif) -->
-
-<!-- ![](https://media.giphy.com/media/YqWZTBT80xGblMEdG0/giphy.gif) -->
-
-<h3>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>experienced music teacher</b></a> and a beginner Web Developer from the  Ukrainian city of 💙Kharkiv💛</h3> 
+<p>I'm Mykola,<a href="http://hnpu.edu.ua/uk/danylyuk-mykola-mykolayovych"> <b>a musician, teacher</b></a> and a beginner Web Developer from the 💙 Ukrainian city of Kharkiv 💛</p> 
 <p>
   In May 2022 I decided to master the profession of Web Developer and now is a student <a href= https://goit.ua/?lang=uk><b>GO IT</b></a>.
 <p>
 
-<!-- <img src="https://cdn-icons-png.flaticon.com/512/7130/7130843.png" width="35" height="35" alt="Activism free icon" title="Activism free icon">  -->
+<!-- - 🔭 I’m currently working on **Learning Web Development** -->
 
-<!-- ![](https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif) -->
-<!-- ![](https://media.giphy.com/media/7rKKkqJpZp7Mtpcdhm/giphy.gif) -->
-
-- 🔭 I’m currently working on **Learning Web Development**
 - 🌱 I’m currently learning **HTML | CSS | SCSS |** ...JAVASCRIPT | REACT |
   NODE.JS
 - 📫 How to reach me: **mykoladanyliuk.ua@gmail.com**
-- ⚡ Fun fact: Content Creator on
+- 🎵 Fun fact: Content Creator on
   <a href="https://bit.ly/31SqqKV">**YouTube**</a>, Director of the
   International Folk Instruments
   Competition&nbsp;<a href="http://artdominanta.com/">**«Art-Dominanta»**</a>
@@ -63,10 +51,6 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 
-<!-- ## My projects
-
-[https://github.com/MykolaDanyliuk/goit-markup-hw-08] -->
-
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaDanyliuk)
@@ -81,20 +65,11 @@
 
 <p>
   <img src="https://gpvc.arturio.dev/MykolaDanyliuk" alt="profile views">
-  <!-- <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
-  <a href="https://swyx.io">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> -->
 </p
 
 ---
 
-<!-- ![](https://media.giphy.com/media/M4NfAd0zHGqJYBKFsz/giphy.gif) -->
-
 ![](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
-
-<!-- <!-- ![](https://media.giphy.com/media/FAomNKj3aLs0bX64BO/giphy.gif) -->
 
 <!-- **MykolaDanyliuk/MykolaDanyliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
